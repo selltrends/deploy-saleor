@@ -46,7 +46,7 @@ git clone https://github.com/selltrends/deploy-saleor.git
 <li>With sudo, from the home directory, run the deploy.sh script.</li>
 
 ```
-sudo bash Deploy_Saleor/deploy.sh
+sudo bash deploy-saleor/deploy.sh
 ```
 
 <li>Run certbot to setup SSL.</li>
